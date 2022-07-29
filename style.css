@@ -20,3 +20,7 @@ body{
     .movie_head i{float: right;}
 
     .achievement_text span{color: orange;}
+    #a{
+        height: 390px;
+        width:390px;
+    }
